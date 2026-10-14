@@ -1,2 +1,5 @@
 
 source_id,provider,source_title,source_type,source_url,publication_date,effective_date,access_date,evidence_location,scope,reliability_notes
+
+SRC001,OpenAI,OpenAI API Pricing,Official pricing documentation,https://developers.openai.com/api/docs/pricing,,,2026-10-14,Model pricing tables,API token pricing,Record the applicable model and pricing tier; current page alone does not establish historical rates.
+SRC002,Anthropic,Claude API Pricing,Official pricing documentation,https://platform.claude.com/docs/en/about-claude/pricing,,,2026-10-14,Model pricing tables,API token pricing,Verify dated pricing evidence and distinguish standard API rates from caching and batch pricing.
