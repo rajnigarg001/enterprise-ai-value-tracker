@@ -1,0 +1,2 @@
+
+observation_date,provider,model_name,model_version,product_type,pricing_tier,currency,input_usd_per_1m_tokens,cached_input_usd_per_1m_tokens,output_usd_per_1m_tokens,effective_from,effective_to,source_id,evidence_location,verification_status,notes
